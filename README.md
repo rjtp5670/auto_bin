@@ -18,6 +18,10 @@ The Auto Bin is for public park or any other places that needs a bin that can au
 
 > Bluetooth Control
 
+<img src="/img/AutoBin_Fire.gif"  width="500">
+
+> Extinguish Fire Accident
+
 Main Function that drive the bin is the Random function. (This is just trick that imitates robot vaccum).
 
 All the code is hard-coded based as this is just school project for code beginner or electrical engineeing major students in school.
