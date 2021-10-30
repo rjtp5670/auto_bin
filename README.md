@@ -8,9 +8,7 @@ The Autobin Project is designed for my school project (July 2, 2015)
 
 The Auto Bin is for public park or any other places that needs a bin that can automatically search a place with two geared motors and some tricky sensors for automatic drive (Ultra Sonic & IR sensors mounted on all directions of its base plate)
 
-![](/auto_bin/img/AutoBin_Detection.gif){: width="500" height="500"}
-
-<img src="/auto_bin/img/AutoBin_Draft.png" width="500" height="500">
+![](/auto_bin/img/AutoBin_Detection.gif)
 
 > Avoiding detected obstacle using sensors
 
