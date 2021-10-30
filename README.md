@@ -29,3 +29,5 @@ What Needed:
 - IR Sensors
 - LM-35
 - HC-05.
+
+![](/auto_bin/img/AutoBin_Draft.png)
