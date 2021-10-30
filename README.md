@@ -1,14 +1,16 @@
-# Auto Bin
+# [Auto Bin](#auto-bin)
 
 - Author: Designed by David Park (Park Huck Gu Se)
 - No Licesense
 - Contact: rjtp5670@gmail.com
 
+## [Intro](#intro)
+
 The Autobin Project is designed for my school project (July 2, 2015)
 
 The Auto Bin is for public park or any other places that needs a bin that can automatically search a place with two geared motors and some tricky sensors for automatic drive (Ultra Sonic & IR sensors mounted on all directions of its base plate)
 
-![](/auto_bin/img/AutoBin_Detection.gif)
+<img src="/img/AutoBin_Detection.gif"  width="500">
 
 > Avoiding detected obstacle using sensors
 
@@ -16,7 +18,7 @@ Main Function that drive the bin is the Random function. (This is just trick tha
 
 All the code is hard-coded based as this is just school project for code beginner or electrical engineeing major students in school.
 
-What Needed:
+## What Needed
 
 - Geared Motor: RB-35GM
 - Motor Drive: L298
@@ -30,4 +32,6 @@ What Needed:
 - LM-35
 - HC-05.
 
-![](/auto_bin/img/AutoBin_Draft.png)
+![](/img/AutoBin_Draft.png)
+
+> Drawing & Sensor attatched
